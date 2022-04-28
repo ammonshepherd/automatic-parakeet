@@ -1,0 +1,10 @@
+body {
+  background-color: moccasin;
+  font-size: 16px;  
+}
+
+#container {
+  margin: 1em auto;
+  width: 80%;
+  background-color: white;
+}
